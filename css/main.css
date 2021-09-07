@@ -6,11 +6,16 @@ h3 {
     border-bottom: 2px solid #232227;
     margin-top: 20px;
     margin-bottom: 15px;
+    /* font-size: 17pt; */
 }
 
 a {
     text-decoration: none;
 }
+
+/* body {
+    font-size: 12pt;
+} */
 
 .x-max-width {
     max-width: 1200px;
