@@ -17,6 +17,11 @@ a {
     font-size: 12pt;
 } */
 
+.card-subtitle {
+    font-size: 11pt;
+    font-weight: normal;
+}
+
 .x-subtitle {
     font-size: 11pt;
 }
