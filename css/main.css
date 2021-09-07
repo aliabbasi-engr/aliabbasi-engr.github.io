@@ -17,6 +17,10 @@ a {
     font-size: 12pt;
 } */
 
+.x-subtitle {
+    font-size: 11pt;
+}
+
 .x-max-width {
     max-width: 1200px;
 }
