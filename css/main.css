@@ -22,6 +22,10 @@ a {
     font-weight: normal;
 }
 
+.x-justify {
+    text-align: justify;
+}
+
 .x-subtitle {
     font-size: 11pt;
 }
