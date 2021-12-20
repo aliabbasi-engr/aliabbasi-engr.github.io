@@ -1,0 +1,17 @@
+.badge {
+    margin-right: 3px;
+}
+
+.card {
+    position: relative;
+}
+
+.card .expand {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
+
+.card .card-footer {
+    min-height: 55px;
+}
