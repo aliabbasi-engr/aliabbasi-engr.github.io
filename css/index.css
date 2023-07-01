@@ -16,3 +16,8 @@
         color: #a0a0a0;
     }
 }
+
+hr {
+    border-top: 1px solid #232227;
+    opacity: 1;
+}
