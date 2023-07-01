@@ -5,3 +5,10 @@
 .x-ta-course i {
     margin-left: 10px;
 }
+
+.x-ta-course-description {
+    padding-top: 7px;
+    padding-left: 10px;
+    margin-bottom: 7px;
+    font-size: 11pt;
+}
